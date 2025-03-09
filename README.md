@@ -4,4 +4,5 @@
 
 ### **_El código usa JavaScript puro (vanilla JS) para manejar la interacción y CSS para el diseño._**
 
-- Este código proporciona una interfaz limpia con tres menús desplegables. Al hacer clic en un botón, se muestra el menú correspondiente, y si se hace clic fuera, los menús se cierran automáticamente. 
+- Este código proporciona una interfaz limpia con tres menús desplegables. }
+- Al hacer clic en un botón, se muestra el menú correspondiente, y si se hace clic fuera, los menús se cierran automáticamente. 
