@@ -1,4 +1,4 @@
-# **_Menú Desplegables_**
+# **_Menús Desplegables_**
 
 ## **_Código realizado en HTML, CSS y JavaScript mediante una página web utilizando varios menús desplegables_**
 
