@@ -6,4 +6,4 @@
 
 - **_Este código proporciona una interfaz limpia y pura con 3 menús desplegables._**
   
-- **_Al hacer clic en cualquier botón, se muestra el menú correspondiente, y si se hace clic fuera, los menús se cierran automáticamente._**
+- **_Al hacer clic en cualquier botón, se muestra un menú correspondiente, y si se hace clic fuera, los menús se cierran automáticamente._**
