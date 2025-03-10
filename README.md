@@ -1,5 +1,9 @@
-# **_MenuDesplegable_**
+# **_Menú Desplegables_**
 
-## **_Código en HTML, CSS y JavaScript para una página web con varios menús desplegables_**
+## **_Código realizado en HTML, CSS y JavaScript mediante una página web con varios menús desplegables_**
 
-### **_El código usa JavaScript puro (vanilla JS) para manejar la interacción y CSS para el diseño._**
+### **_El código usa JavaScript puro (vanilla JS) para manejar la interacción y CSS para el diseño de la interfaz._**
+
+- **_Este código proporciona una interfaz limpia y pura con 3 menús desplegables._**
+  
+- **_Al hacer clic en cualquier botón, se muestra un menú correspondiente, y si se hace clic fuera, los menús se cierran automáticamente._**
