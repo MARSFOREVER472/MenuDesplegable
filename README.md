@@ -2,7 +2,7 @@
 
 ## **_Código realizado en HTML, CSS y JavaScript mediante una página web con varios menús desplegables_**
 
-### **_El código usa JavaScript puro (vanilla JS) para manejar la interacción y CSS para el diseño._**
+### **_El código usa JavaScript puro (vanilla JS) para manejar la interacción y CSS para el diseño de la interfaz._**
 
 - **_Este código proporciona una interfaz limpia con 3 menús desplegables._**
   
