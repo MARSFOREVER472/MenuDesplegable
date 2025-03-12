@@ -67,6 +67,33 @@
     </style>
 </head>
 <body>
-    
+    <h2>Menús Desplegables</h2>
+    <div class="menu-container">
+        <div class="dropdown">
+            <button onclick="toggleMenu('menu1')">Menú 1</button>
+            <div id="menu1" class="dropdown-content">
+                <a href="#">Opción 1</a>
+                <a href="#">Opción 2</a>
+                <a href="#">Opción 3</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <button onclick="toggleMenu('menu2')">Menú 2</button>
+            <div id="menu2" class="dropdown-content">
+                <a href="#">Opción A</a>
+                <a href="#">Opción B</a>
+                <a href="#">Opción C</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <button onclick="toggleMenu('menu3')">Menú 3</button>
+            <div id="menu3" class="dropdown-content">
+                <a href="#">Opción α</a>
+                <a href="#">Opción β</a>
+                <a href="#">Opción γ</a>
+            </div>
+        </div>
+    </div>
+    <script src="menu.js"></script>
 </body>
 </html>
